@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Microsoft JDBC Driver 4/sqljdbc_4/rus/help/samples/adaptive" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Microsoft JDBC Driver 4/sqljdbc_4/rus/help/samples/connections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Microsoft JDBC Driver 4/sqljdbc_4/rus/help/samples/datatypes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Microsoft JDBC Driver 4/sqljdbc_4/rus/help/samples/resultsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Microsoft JDBC Driver 4/sqljdbc_4/rus/help/samples/sparse" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="rus" level="project" />
+  </component>
+</module>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CopyLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/2/client/lib/CopyLibs/afreechart-0.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/2/client/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
